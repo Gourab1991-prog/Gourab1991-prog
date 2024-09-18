@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...Excel, SQL, Python, Power Bi, Data Analysis, Data Manipulation, Descriptive Statistics, Inferential Statistics, Problem Solving, Business Sense, Data Modeling, Data Mining
 - 🌱 I’m currently learning ...Data Analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...https://www.linkedin.com/in/gourabmukherjee91/,https://www.naukri.com/mnjuser/profile?id=&altresid
+- 📫 How to reach me ...https://www.linkedin.com/in/gourabmukherjee91/
 - 😄 Pronouns: ...Mr.
 - ⚡ Fun fact: ...
 
